@@ -1,4 +1,4 @@
-# guessing_number
+# Guessing number game
 
 ![image](https://github.com/CookWang1906/guessing_number/assets/148769157/2d881bf8-91e6-4cc1-911d-d47109e5ab1f)
 
